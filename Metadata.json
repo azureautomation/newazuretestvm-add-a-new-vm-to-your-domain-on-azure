@@ -1,0 +1,20 @@
+{
+    "Author": "DexterPOSH",
+    "ContentSize": 5472,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/newazuretestvm-add-a-new-vm-to-your-domain-on-azure/master/New-TestVM.ps1",
+    "DownloadCount": 1338,
+    "Id": "New-AzureTestVM-Add-a-new-793de685",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 377,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2014-11-6T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "I wanted to deploy Server 10 VM joined to my domain and leveraged Azure Automation to do that. So now when I need a new VM, just have to invoke the Runbook and a domain joined new server is ready in well over 10 minutes.I have a blog post explaining how this works too.",
+    "Title": "New-AzureTestVM - Add a new VM to your Domain on Azure",
+    "UpdatedDate": "2015-8-20T00:00:00",
+    "Url": "https://github.com/azureautomation/newazuretestvm-add-a-new-vm-to-your-domain-on-azure",
+    "UserTags": "Microsoft Azure, Powershell, Azure Automation"
+}
